@@ -2,7 +2,7 @@ jimmy:
   name: Jimmy Sailo
   title: Maintainer of this repository
   url: https://github.com/jsailo
-  image_url: https://github.com/endiliey.png
+  image_url: /static/img/avatar.png
 
 yangshun:
   name: Yangshun Tay
