@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: cloning-docusaurus-from-github
+slug: installing-docusaurus
 title: Installing Docusaurus 
 ---
 

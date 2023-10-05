@@ -1,9 +1,10 @@
 ---
 sidebar_position: 4
-slug: deploying-to-github-pages
+slug: deploying-docusaurus-to-github-pages
+title: Deploying Docusaurus to github pages
 ---
 
-# Deploying to github pages
+# Deploying Docusaurus to github pages
 
 Using SSH to deploy your Docusaurus page.
 

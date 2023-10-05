@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-slug: modifying-the-docusaurus-front-page
+slug: building-running-docusaurus-ocally
 title: Building and running Docusaurus locally
 ---
 

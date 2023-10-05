@@ -1,6 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 slug: modifying-the-docusaurus-front-page
+title: Modifying the Docusaurus front page
 ---
 
 # Modifying frontmatter texts

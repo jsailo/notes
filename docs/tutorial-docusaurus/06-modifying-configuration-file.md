@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 slug: modifying-the-docusaurus-configuration-file
+title: Modifying the Docusaurus configuration file
 ---
 
 # Modifying the configuration file
