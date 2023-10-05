@@ -1,6 +1,7 @@
 ---
 slug: exporting-database-configuration-rebased
-sidebar_position: 5
+sidebar_position: 6
+title: Exporting the Rebased database configuration
 ---
 
 # Exporting the database configuration

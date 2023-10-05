@@ -1,5 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
+slug: updating-rebased
+title: Updating Rebased
 ---
 
 # Updating Rebased
