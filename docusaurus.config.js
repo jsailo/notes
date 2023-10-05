@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Notes from Jimmy',
-  tagline: 'Dinosaurs are cool',
+  title: 'Notes 📘 and jottings 🖋️',
+  tagline: '"Words are the final frontier"',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/notes/',
+            'https://github.com/jsailo/notes/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/notes/',
+          'https://github.com/jsailo/notes/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,9 +65,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Notes 📝',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Note from Jimmy',
           src: 'img/logo.svg',
         },
         items: [
@@ -75,11 +75,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorials',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/jsailo/notes',
             label: 'GitHub',
             position: 'right',
           },
@@ -98,19 +98,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'On the web',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Fediverse',
+                href: 'https://charcha.cc',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://linkedin/jsailo',
               },
             ],
           },
@@ -121,14 +117,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyleft &#127279; ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,

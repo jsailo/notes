@@ -14,13 +14,13 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: <a href="/notes/blog/">'Focus on What Matters'</a>,
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
+      <a href="google.com">
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
         ahead and move your docs into the <code>docs</code> directory.
-      </>
+      </a>
     ),
   },
   {
