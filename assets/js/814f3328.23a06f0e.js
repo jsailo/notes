@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"About me","permalink":"/notes/blog/about-me"},{"title":"Welcome! Aloha! Chibai!","permalink":"/notes/blog/welcome"},{"title":"MDX Blog Post","permalink":"/notes/blog/mdx-blog-post"}]}')}}]);
