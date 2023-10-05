@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-slug: modifying-the-docusaurus-front-page
+slug: modifying-the-front-page
 ---
 
 # Modifying frontmatter texts

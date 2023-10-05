@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: cloning-docusaurus-from-github
+title: Cloning your repository from github
 ---
 
 # Cloning from github
