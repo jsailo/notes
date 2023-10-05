@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Notes 📝',
+        title: 'Notes over a cuppa ☕',
         logo: {
           alt: 'Note from Jimmy',
           src: 'img/logo.svg',
@@ -98,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'On the web',
+            title: 'Me on the web',
             items: [
               {
                 label: 'Fediverse',
