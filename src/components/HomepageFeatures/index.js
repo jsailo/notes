@@ -31,19 +31,10 @@ const FeatureList = [
         Extend or customize your website layout by reusing React. Docusaurus can
         be extended while reusing the same header and footer.
       </>
+      
     ),
   },
 ];
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 function Feature({Svg, title, description}) {
   return (

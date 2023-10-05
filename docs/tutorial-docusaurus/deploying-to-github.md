@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 slug: deploying-to-github-pages
 ---
 
@@ -9,7 +9,11 @@ Using SSH to deploy your Docusaurus page.
 
 ## Steps
 ---
-Just run the following
+Run the following.
+
+```bash
+npm run build
+```
 
 ```bash
 USE_SSH=true yarn deploy
