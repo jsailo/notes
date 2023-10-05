@@ -10,7 +10,14 @@ Clone from github, modify the files, and push your changes.
 ## Steps
 ---
 1. Create a new repository in Github
-2. Copy the repository link.
+2. Clone the repository link.
+
+```bash
+
+git clone git@github.com:<yourgithubusername/yourreponame.git
+
+```
+
 3. Run the following in your shell.
 
     ```bash
