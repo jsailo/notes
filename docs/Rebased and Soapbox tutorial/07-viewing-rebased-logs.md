@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 slug: viewing-rebased-logs
 title: Viewing Rebased logs
 ---

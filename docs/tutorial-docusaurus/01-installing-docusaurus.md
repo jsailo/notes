@@ -7,8 +7,7 @@ title: Installing Docusaurus
 Installing Docusaurus involves:
 1. Creating your Github repository.
 2. Cloning your created Github repository to your local computer.
-3. Running the npx command to create the Docusaurus files. We will use the classic template for this tutorial.
-4. Making changes to the default files and pushing them to your Github repository.
+3. Creating the Docusaurus files on your local computer using the npx command.
 
 
 ## Creating your Github repository
@@ -23,7 +22,7 @@ Installing Docusaurus involves:
     git clone git@github.com:<YourGithubUsername/your_repository_name.git
     ```
 
-## Creating the Docusaurus files on your local computer
+## Creating the Docusaurus files on your local computer using the npx command
 
 :::note
 
