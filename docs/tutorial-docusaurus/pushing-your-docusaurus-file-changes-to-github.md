@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 slug: pushing-your-docusaurus-file-changes-to-github
-title: Pushing your changes to Github
+title: Pushing your docusaurus file changes to Github
 ---
 
 ## Pushing your changes to Github
