@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Viewing system logs
 
-System logs allow you to view the logs of your Rebased server and are useful when you want to troubleshoot issues your server facing.
+System logs allow you to view the logs of your Rebased server and are useful when you want to troubleshoot issues your server is facing.
 
 To view system logs on the server, run the following: 
 
