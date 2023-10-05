@@ -13,21 +13,27 @@ Installing Docusaurus involves:
 
 ## Creating your Github repository
 
-1. Create a new repository in Github
+1. Create a new repository in Github.
 
 ## Cloning the created repository to your local computer
 
-2. Cloning the created Github repository on your local computer.
+2. Use the following command to clone (or create copies) of your Github repository on your local computer.
     
     ```bash
     git clone git@github.com:<YourGithubUsername/your_repository_name.git
     ```
 
-## Running the npx command to fetch and create the Docusaurus files on your local computer
+## Creating the Docusaurus files on your local computer
 
-    We will use the classic template for this tutorial
+:::note
 
-1. Run the following command
+    We will use the classic template for this tutorial and use the npx 
+    command to fetch the Docusaurus files.
+
+:::
+
+
+1. Run the following command.
 
     ```bash
     npx create-docusaurus@latest my-website classic
@@ -35,21 +41,7 @@ Installing Docusaurus involves:
 
 2. If all goes well, you'll see the following message.
 
-    ```Notes
+    ```bash
     Happy building awesome websites!
     ```
 
-## Cloning from github, modifying the files, and pushing your changes.
-
-1. Change the directory on your local computer.
-
-2. Initialize your git repository on the folder
-
-    ```bash
-    git init
-    git add
-    git commit -m "First commit"
-    git branch -M main
-    git remote add origin git@github.com:<your_github_username>/notes.git
-    git push
-    ```
