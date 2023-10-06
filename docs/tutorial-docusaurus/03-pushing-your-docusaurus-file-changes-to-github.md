@@ -9,7 +9,7 @@ title: Pushing your docusaurus file changes to Github
 1. Change the directory on your local computer.
 
     ```bash
-    cd <location of your local repository>
+    cd <location of your local Docusaurus repository>
     ```
 
 2. Initialize your git repository on the folder
@@ -24,22 +24,24 @@ title: Pushing your docusaurus file changes to Github
     git add .
     ```
 
-:::note
+    :::note
 
-    We use the git add . command here for the sake of simplicity.
-    Here we are saying, "I want to add all the files in the directory
-    to github.
+        We use the git add . (add dot) command here for the sake of simplicity. We are saying, "I want to add all the files in the directory to github."
+    :::
 
-:::
+4. Commit the files to Github. Here, we are saying "I'm ready to commit the changes I have made."
 
-4. Commit the files. Here, you are saying "I'm ready to commit the changes I have made".
+    "First commit" is the comment you are adding to the commit you are making. This is for you or others watching your repository to see what changes were made to the commit.
+
     ```bash
     git commit -m "First commit"
-    ```
-5. Run the following to ensure that you will be pushing the files to the `main` branch on your Github repository
-    ```bash
+    
+:::tip
+Run the following to ensure that you will be pushing the files to the `main` branch of your Github repository
+
+   ```bash
     git branch -M main
-    ```
+::: 
 
 6. Now add the files and push the files to Github.
 

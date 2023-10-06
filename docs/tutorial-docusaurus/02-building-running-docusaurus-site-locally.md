@@ -8,3 +8,9 @@ Use the following command to build and run your Docusaurus site on your local co
 
 ```bash
 yarn start
+```
+Alternatively, use the following command.
+
+```bash
+npm run serve
+```
