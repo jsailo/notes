@@ -44,3 +44,12 @@ Installing Docusaurus involves:
     Happy building awesome websites!
     ```
 
+Ignore the following warnings. 
+
+```bash
+warning @docusaurus/core > react-dev-utils > fork-ts-checker-webpack-plugin > memfs@3.6.0: this will be v4
+warning @docusaurus/core > webpack-dev-server > webpack-dev-middleware > memfs@3.6.0: this will be v4
+warning @docusaurus/core > @docusaurus/mdx-loader > @mdx-js/mdx > remark-mdx > @babel/plugin-proposal-object-rest-spread@7.12.1: This proposal has been merged to the ECMAScript standard and thus this plugin is no longer maintained. Please use @babel/plugin-transform-object-rest-spread instead.
+warning @docusaurus/core > @docusaurus/mdx-loader > @mdx-js/mdx > remark-parse > trim@0.0.1: Use String.prototype.trim() instead
+warning @docusaurus/core > @svgr/webpack > @svgr/plugin-svgo > svgo > stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+```
