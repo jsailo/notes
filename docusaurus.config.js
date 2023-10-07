@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Notes 📘 and jottings 🖋️',
-  tagline: '"Words are the final frontier"',
+  tagline: '"Words are the final frontier. If it\'s not documented, it does not exist."',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Notes over a cuppa ☕',
+        title: 'Notes w/Chai',
         logo: {
           alt: 'Note from Jimmy',
           src: 'img/logo.svg',
