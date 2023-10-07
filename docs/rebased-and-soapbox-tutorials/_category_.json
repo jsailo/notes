@@ -1,9 +1,9 @@
 {
-    "label": "Rebased and Soapbox",
+    "label": "Installing Rebased & Soapbox",
     "position": 1,
     "link": {
       "type": "generated-index",
-      "description": "Tutorials on Soapbox and Rebased (a fork of Pleroma)."
+      "description": "Notes (or tutorials) on Soapbox and Rebased (a fork of Pleroma)."
     }
   }
   
