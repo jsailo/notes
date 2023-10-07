@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Tutorials',
-                to: 'docs/category/rebased--soapbox',
+                to: 'docs/category/installing-rebased--soapbox/', 
               },
             ],
           },
