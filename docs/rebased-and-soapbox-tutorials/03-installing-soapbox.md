@@ -4,7 +4,7 @@ slug: installing-soapbox
 title: Installing Soapbox
 ---
 
-Soapbox is the recommended frontend for Rebased.
+Soapbox is the frontend with which users (or you) will interact with your Fediverse site.
 
 1. Use the `curl` command to fetch the latest build.
 
@@ -19,5 +19,4 @@ Soapbox is the recommended frontend for Rebased.
     busybox unzip soapbox.zip -o -d /opt/pleroma/instance/static
     ```
 
-
-Refresh your website. That’s it!
+Refresh your website. Tada!

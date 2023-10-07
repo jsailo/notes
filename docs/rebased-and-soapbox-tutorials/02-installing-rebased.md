@@ -4,21 +4,29 @@ slug: installing-rebased
 title: Installing Rebased
 ---
 
+Now that you have a VPS and domain name ready, let's begin with installing Rebased first.
+
 1. Run the following commands to update and ugrade your fresh Ubuntu machine.
 
     ```bash
     apt update -y
     apt upgrade -y
+    ```
+    :::note
+    The `y` flag is similar to your Windows `Yes to all` button.
+    :::
 
-
-:::note
-The `y` flag is similar to your Windows `Yes to all` button.
-:::
-
-2. Install system dependencies. These are needed to for your Rebased installation to function properly.
+2. Install the system dependencies. These are needed for your Rebased installation to function properly.
     ```bash
     apt install git curl build-essential postgresql postgresql-contrib cmake libmagic-dev imagemagick ffmpeg libimage-exiftool-perl nginx certbot unzip libssl-dev automake autoconf libncurses5-dev fasttext
     ```
+    A brief description of some of these dependencies.
+    - postgresql: The free and open-source PostgreSQL database
+    - imagemagick: Pronounced 'Image Magick', this tool converts and optimizes images uploaded to your website, like resize overtly large images (image scaling) or convert them into another format.
+    - ffmpeg: Optimizes videos uploaded to your website, such as resizing (file size) or converting uploaded videos to another format so they are served in a format that's best for visitors of your website.
+    - nginx: This is a configuration file that allows you to control the nitty gritties of your server. 
+    - certbot: This allows you to fetch certificates from certbot. The `https` you see on websites is becaues of this.
+    - unzip: A utility for unzipping files on your server. Take it as, the Winzip of Linux.
 
 3. Create the Pleroma user. Here, you are creating a new user called `Pleroma` in the Ubuntu machine. This is the user with which you will interact with your Rebased installation.
     ```bash
