@@ -25,8 +25,8 @@ Now that you have a VPS and domain name ready, let's begin with installing Rebas
     - imagemagick: Pronounced 'Image Magick', this tool converts and optimizes images uploaded to your website, like resize overtly large images (image scaling) or convert them into another format.
     - ffmpeg: Optimizes videos uploaded to your website, such as resizing (file size) or converting uploaded videos to another format so they are served in a format that's best for visitors of your website.
     - nginx: This is a configuration file that allows you to control the nitty gritties of your server. 
-    - certbot: This allows you to fetch certificates from certbot. The `https` you see on websites is becaues of this.
-    - unzip: A utility for unzipping files on your server. Take it as, the Winzip of Linux.
+    - certbot: This allows you to fetch certificates from certbot. The `https` you see on websites is because of this.
+    - unzip: A utility for unzipping files on your server. Take it as, 'the Winzip of Linux'.
 
 3. Create the Pleroma user. Here, you are creating a new user called `Pleroma` in the Ubuntu machine. This is the user with which you will interact with your Rebased installation.
     ```bash
