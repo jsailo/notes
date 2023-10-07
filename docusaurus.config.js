@@ -98,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'Me on the web',
+            title: 'Yours truly',
             items: [
               {
                 label: 'Fediverse instance',

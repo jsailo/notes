@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: <a href="/notes/blog">Jump to the blog</a>,
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/view_the_blog.svg').default,
     description: (
       <>
         Not much to see in this section. Really!
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: <a href="/notes/docs/category/docusaurus">Docusaurus tutorials</a>,
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/docusaurus_tutorials.svg').default,
     description: (
      <>
         Learnings over the course of installing Docusaurus.
