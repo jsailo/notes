@@ -18,4 +18,4 @@ No ideologies. Doesn't preach. Nor tries to force beliefs on to others.
 
 Dabbles with photography, his Fediverse instance, or watches historical documentaries. Also reads - when time permits.
 
-As for my background, I'm a [Mizo](https://en.wikipedia.org/wiki/Mizo_people) but have lived all my life in Delhi.
+Originally from a [Mizoram](https://en.wikipedia.org/wiki/Mizoram) but has lived all his life in Delhi.
