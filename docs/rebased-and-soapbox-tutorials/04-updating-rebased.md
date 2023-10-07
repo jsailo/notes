@@ -8,7 +8,7 @@ title: Updating Rebased
 
 To update Rebased, run the following commands in succession.
 
-1. Change to the `pleroma` user.
+1. Make yourself the `pleroma` user.
     ```bash
     sudo -Hu pleroma bash
     ```

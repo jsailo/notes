@@ -8,7 +8,11 @@ The first step of installing Rebased and Soapbox is choosing a VPS to host your 
 
 ## Choosing a VPS
 
-You need to host your website somewhere, so you need to buy a VPS from a cloud service provider. Since Rebased does not support shared hosting, you'll need to purchase a VPS. I've had years of using DigitalOcean's droplets and their services, so I personally recommend it.
+You need to host your website somewhere, so you must buy a VPS from a cloud service provider. 
+
+### Why a VPS?
+
+Rebased cannot be hosted on a shared hosting platform so you'll need to purchase a VPS because of the background services and configurations required to run Rebased and Soapbox. I've used DigitalOcean's droplets and their services for years, so I personally recommend them.
 
 ## Buying a domain
 

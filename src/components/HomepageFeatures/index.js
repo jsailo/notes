@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/view_the_blog.svg').default,
     description: (
       <>
-        Not much to see in this section. Really!
+        Not much to see in this section ATM. Really!
       </>
     ),
   },

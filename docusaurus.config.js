@@ -1,12 +1,12 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+// `Not`e: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Notes, jottings, and other stuff 🖋️',
+  title: 'Are you taking your notes?',
   tagline: '"Words are the final frontier" - some Irish writer',
   favicon: 'img/favicon.ico',
 
@@ -117,10 +117,14 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
+              {
+                label: 'Credits',
+                href: '/blog/Credits',
+              },
             ],
           },
         ],
-        copyright: `Copyleft &#127279; ${new Date().getFullYear()}`,
+        copyright: `Copyleft &#127279; ${new Date().getFullYear()} Sharing is caring ❤️ Please copy and share.`,
       },
       prism: {
         theme: lightCodeTheme,

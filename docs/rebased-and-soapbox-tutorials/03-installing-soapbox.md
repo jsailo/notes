@@ -4,7 +4,7 @@ slug: installing-soapbox
 title: Installing Soapbox
 ---
 
-Soapbox is the frontend with which users (or you) will interact with your Fediverse site.
+Soapbox is the frontend with which users (or you) will interact with your Fediverse site. It involves fetching the zip file from the Soapbox server and unzipping the files on your server. That's all there is to it.
 
 1. Use the `curl` command to fetch the latest build.
 
