@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.jpg',
       navbar: {
-        title: 'Notes w/Chai',
+        title: '',
         logo: {
           alt: 'Note from Jimmy',
           src: 'img/logo.svg',
