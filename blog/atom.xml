@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsailo.github.io/notes/blog</id>
-    <title>Notes, jottings, and other stuff 🖋️ Blog</title>
-    <updated>2023-10-05T03:57:15.000Z</updated>
+    <title>Are you taking your notes? Blog</title>
+    <updated>2023-10-07T17:02:41.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsailo.github.io/notes/blog"/>
-    <subtitle>Notes, jottings, and other stuff 🖋️ Blog</subtitle>
+    <subtitle>Are you taking your notes? Blog</subtitle>
     <icon>https://jsailo.github.io/notes/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Credits]]></title>
+        <id>https://jsailo.github.io/notes/blog/credits</id>
+        <link href="https://jsailo.github.io/notes/blog/credits"/>
+        <updated>2023-10-07T17:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Credits for images used on this site.]]></summary>
+        <content type="html"><![CDATA[<p>Credits for images used on this site.</p><ul><li>Soapbox SVG: <a href="https://soapbox.pub" target="_blank" rel="noopener noreferrer">https://soapbox.pub</a></li><li>Blog SVG: <a href="https://www.svgrepo.com/show/130741/blog.svg" target="_blank" rel="noopener noreferrer">https://www.svgrepo.com/show/130741/blog.svg</a></li><li>Favicon: <a href="https://www.freefavicon.com/freefavicons/objects/iconinfo/writing-with-pencil-2-152-309243.html" target="_blank" rel="noopener noreferrer">Writing with pencil</a></li><li>Docusaurus image: <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">https://docusaurus.io</a></li></ul>]]></content>
+        <author>
+            <name>Jimmy</name>
+            <uri>https://github.com/jsailo</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="hello" term="hello"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[About me]]></title>
         <id>https://jsailo.github.io/notes/blog/about-me</id>
         <link href="https://jsailo.github.io/notes/blog/about-me"/>
         <updated>2023-10-05T03:57:15.000Z</updated>
         <summary type="html"><![CDATA[Since you're here, let's start with the usual.]]></summary>
-        <content type="html"><![CDATA[<p>Since you're here, let's start with the usual. </p><p>I'm a Technical Writer based in Delhi with over 17 years of writing technical documentation. Over this perod I have written documentation for products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Blue chip companies I have written documentation for include, HP, Microsoft, and NCR Teradata.</p><p>In my free time, I dabble with photography, my Fediverse instance, or watch documentaries. I also read - when time permits.</p><p>As for my background, I'm a <a href="https://en.wikipedia.org/wiki/Mizo_people" target="_blank" rel="noopener noreferrer">Mizo</a> but have lived all my life in Delhi.</p>]]></content>
+        <content type="html"><![CDATA[<p>Since you're here, let's start with the usual. </p><p>I'm a Technical Writer based in Delhi with over 17 years of writing technical documentation. Over this perod I have written documentation for products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Blue chip companies I have written documentation for include, HP, Microsoft, and NCR Teradata.</p><p>No ideologies. Don't preach. Nor try to force my beliefs into others. </p><p>He, Him, His. Love is love 🌈</p><p>In my free time, I dabble with photography, my Fediverse instance, or watch historical documentaries. I also read - when time permits.</p><p>As for my background, I'm a <a href="https://en.wikipedia.org/wiki/Mizo_people" target="_blank" rel="noopener noreferrer">Mizo</a> but have lived all my life in Delhi.</p>]]></content>
         <author>
             <name>Jimmy</name>
             <uri>https://github.com/jsailo</uri>
@@ -26,8 +40,8 @@
         <id>https://jsailo.github.io/notes/blog/welcome</id>
         <link href="https://jsailo.github.io/notes/blog/welcome"/>
         <updated>2023-10-05T03:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Decided to share my learning over the years and put it here in the hopes that someone out there might find them useful.]]></summary>
-        <content type="html"><![CDATA[<p>Decided to share my learning over the years and put it here in the hopes that someone out there might find them useful. </p><p>Have written a bit about me <a href="/notes/blog/about-me">here</a>.</p>]]></content>
+        <summary type="html"><![CDATA[Decided to share my learning and notes (taken) over the years and put it here in the hopes that someone out there might find them useful.]]></summary>
+        <content type="html"><![CDATA[<p>Decided to share my learning and notes (taken) over the years and put it here in the hopes that someone out there might find them useful. </p><p>Have written a bit about me <a href="/notes/blog/about-me">here</a>.</p>]]></content>
         <author>
             <name>Jimmy Sailo</name>
             <uri>https://github.com/jsailo</uri>

@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Notes, jottings, and other stuff 🖋️ Blog</title>
+        <title>Are you taking your notes? Blog</title>
         <link>https://jsailo.github.io/notes/blog</link>
-        <description>Notes, jottings, and other stuff 🖋️ Blog</description>
-        <lastBuildDate>Thu, 05 Oct 2023 03:57:15 GMT</lastBuildDate>
+        <description>Are you taking your notes? Blog</description>
+        <lastBuildDate>Sat, 07 Oct 2023 17:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Credits]]></title>
+            <link>https://jsailo.github.io/notes/blog/credits</link>
+            <guid>https://jsailo.github.io/notes/blog/credits</guid>
+            <pubDate>Sat, 07 Oct 2023 17:02:41 GMT</pubDate>
+            <description><![CDATA[Credits for images used on this site.]]></description>
+            <content:encoded><![CDATA[<p>Credits for images used on this site.</p><ul><li>Soapbox SVG: <a href="https://soapbox.pub" target="_blank" rel="noopener noreferrer">https://soapbox.pub</a></li><li>Blog SVG: <a href="https://www.svgrepo.com/show/130741/blog.svg" target="_blank" rel="noopener noreferrer">https://www.svgrepo.com/show/130741/blog.svg</a></li><li>Favicon: <a href="https://www.freefavicon.com/freefavicons/objects/iconinfo/writing-with-pencil-2-152-309243.html" target="_blank" rel="noopener noreferrer">Writing with pencil</a></li><li>Docusaurus image: <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">https://docusaurus.io</a></li></ul>]]></content:encoded>
+            <category>hola</category>
+            <category>hello</category>
+        </item>
         <item>
             <title><![CDATA[About me]]></title>
             <link>https://jsailo.github.io/notes/blog/about-me</link>
             <guid>https://jsailo.github.io/notes/blog/about-me</guid>
             <pubDate>Thu, 05 Oct 2023 03:57:15 GMT</pubDate>
             <description><![CDATA[Since you're here, let's start with the usual.]]></description>
-            <content:encoded><![CDATA[<p>Since you're here, let's start with the usual. </p><p>I'm a Technical Writer based in Delhi with over 17 years of writing technical documentation. Over this perod I have written documentation for products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Blue chip companies I have written documentation for include, HP, Microsoft, and NCR Teradata.</p><p>In my free time, I dabble with photography, my Fediverse instance, or watch documentaries. I also read - when time permits.</p><p>As for my background, I'm a <a href="https://en.wikipedia.org/wiki/Mizo_people" target="_blank" rel="noopener noreferrer">Mizo</a> but have lived all my life in Delhi.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Since you're here, let's start with the usual. </p><p>I'm a Technical Writer based in Delhi with over 17 years of writing technical documentation. Over this perod I have written documentation for products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Blue chip companies I have written documentation for include, HP, Microsoft, and NCR Teradata.</p><p>No ideologies. Don't preach. Nor try to force my beliefs into others. </p><p>He, Him, His. Love is love 🌈</p><p>In my free time, I dabble with photography, my Fediverse instance, or watch historical documentaries. I also read - when time permits.</p><p>As for my background, I'm a <a href="https://en.wikipedia.org/wiki/Mizo_people" target="_blank" rel="noopener noreferrer">Mizo</a> but have lived all my life in Delhi.</p>]]></content:encoded>
             <category>hola</category>
             <category>hello</category>
         </item>
@@ -23,8 +33,8 @@
             <link>https://jsailo.github.io/notes/blog/welcome</link>
             <guid>https://jsailo.github.io/notes/blog/welcome</guid>
             <pubDate>Thu, 05 Oct 2023 03:57:15 GMT</pubDate>
-            <description><![CDATA[Decided to share my learning over the years and put it here in the hopes that someone out there might find them useful.]]></description>
-            <content:encoded><![CDATA[<p>Decided to share my learning over the years and put it here in the hopes that someone out there might find them useful. </p><p>Have written a bit about me <a href="/notes/blog/about-me">here</a>.</p>]]></content:encoded>
+            <description><![CDATA[Decided to share my learning and notes (taken) over the years and put it here in the hopes that someone out there might find them useful.]]></description>
+            <content:encoded><![CDATA[<p>Decided to share my learning and notes (taken) over the years and put it here in the hopes that someone out there might find them useful. </p><p>Have written a bit about me <a href="/notes/blog/about-me">here</a>.</p>]]></content:encoded>
             <category>welcome</category>
         </item>
     </channel>
