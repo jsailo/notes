@@ -1,17 +1,20 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
+slug: viewing-rebased-logs
+title: Viewing Rebased logs
 ---
 
 # Viewing system logs
 
-System logs allow you to view the logs of your Rebased server and are useful when you want to troubleshoot issues your server facing.
+System logs allow you to view the logs of your Rebased server and are useful when you want to troubleshoot issues your server is facing.
 
 To view system logs on the server, run the following: 
 
 ```bash
 journalctl -fu pleroma
 ```
-The following is an example output. 
+
+An scrolling output is displayed on the screen. The following is an example.
 
 ```bash
 Oct 04 03:57:19 servername mix[3807027]: 03:57:19.149 [info] GET /packs/emoji/2694.svg

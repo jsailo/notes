@@ -5,12 +5,18 @@ slug: cloning-docusaurus-from-github
 
 # Cloning from github
 
-Clone from github, modify the files, and push your changes.
+Cloning from github, modify the files, and push your changes.
 
 ## Steps
 ---
-1. Create a new repository in Github
+1. Create a new repository in Github.
 2. Copy the repository link.
+3. Clone the repository on your local computer. 
+    ```bash
+    git clone git@github.com:<YourGithubUsername>/<YourRepositoryName>.git
+4. Change the directory to your repository. 
+    ```bash
+    cd <Your_Repository_Directory>
 3. Run the following in your shell.
 
     ```bash
