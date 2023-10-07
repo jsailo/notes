@@ -1,9 +1,9 @@
 {
     "label": "Rebased and Soapbox",
-    "position": 4,
+    "position": 1,
     "link": {
       "type": "generated-index",
-      "description": "Quick tutorials on Rebased - a fork of Pleroma."
+      "description": "Tutorials on Soapbox and Rebased (a fork of Pleroma)."
     }
   }
   

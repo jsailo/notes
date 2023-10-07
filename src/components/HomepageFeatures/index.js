@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: <a href="/notes/docs/category/rebased-and-soapbox">Soapbox & Rebased tutorials</a>,
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/rebased_soapbox.svg').default,
     description: (
       <>
         Sharing some of my learnings from hosting a Fediverse site based on Rebased and Soapbox. Rebased is a fork of Pleroma.

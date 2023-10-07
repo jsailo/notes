@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Notes 📘 and jottings 🖋️',
-  tagline: '"Words are the final frontier. If it\'s not documented, it does not exist."',
+  title: 'Notes, jottings, and other stuff 🖋️',
+  tagline: '"Words are the final frontier"',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'Notes w/Chai',
         logo: {
@@ -92,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tutorials',
                 to: '/docs/intro',
               },
             ],
@@ -101,7 +101,7 @@ const config = {
             title: 'Me on the web',
             items: [
               {
-                label: 'Fediverse',
+                label: 'Fediverse instance',
                 href: 'https://charcha.cc',
               },
               {
