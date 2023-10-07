@@ -8,16 +8,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Don't be bothered. Not much to see in this section. Really!
+        Not much to see in this section. Really!
       </>
     ),
   },
   {
-    title: <a href="/notes/docs/category/rebased-and-soapbox">Soapbox & Rebased tutorials</a>,
+    title: <a href="/notes/docs/category/rebased--soapbox">Soapbox & Rebased tutorials</a>,
     Svg: require('@site/static/img/rebased_soapbox.svg').default,
     description: (
       <>
-        Sharing some of my learnings from hosting a Fediverse site based on Rebased and Soapbox. Rebased is a fork of Pleroma.
+        Learnings from hosting a personal Fediverse site based on Rebased and Soapbox.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
      <>
-        Some learnings over the course of installing Docusaurus.
+        Learnings over the course of installing Docusaurus.
       </>
     ),
   },

@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={` ${siteConfig.title}`}
-      description="Notes, jottings, tutorials <head />">
+      description="Notes and jottings <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

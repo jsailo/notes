@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Notes, jottings, and other stuff 🖋️',
-  tagline: '"Words are the final frontier"',
+  tagline: '"Words are the final frontier" - some Irish writer',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -63,11 +63,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.jpg',
+      image: 'img/social-card.png',
       navbar: {
         title: '',
         logo: {
-          alt: 'Note from Jimmy',
+          alt: 'Notes',
           src: 'img/logo.svg',
         },
         items: [
@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Tutorials',
-                to: 'docs/category/installing-rebased--soapbox/', 
+                to: '/notes/docs/category/rebased--soapbox',
               },
             ],
           },
@@ -127,6 +127,16 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+};
+
+module.exports = {
+  themeConfig: {
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
+  },
 };
 
 module.exports = config;
