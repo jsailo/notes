@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
   //      title={` ${siteConfig.title}`}
-      title={`${siteConfig.title}`}
+      title={`Notes, jottings, and other stuff`}
       description="Sharing notes for anyone interested 🤙">
       <HomepageHeader />
       <main>

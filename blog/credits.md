@@ -14,5 +14,5 @@ Credits for images used on this site.
 
 - Soapbox SVG: https://soapbox.pub
 - Blog SVG: https://www.svgrepo.com/show/130741/blog.svg
-- Favicon: [Writing with pencil](https://www.freefavicon.com/freefavicons/objects/iconinfo/writing-with-pencil-2-152-309243.html)
+- Favicon: https://www.freefavicon.com/freefavicons
 - Docusaurus image: https://docusaurus.io

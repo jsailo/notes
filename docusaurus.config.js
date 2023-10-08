@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Notes, jottings, and other stuff.',
+  title: 'Notes, jottings, and other stuff',
   tagline: 'Demo, so no tagline ATM.',
   favicon: 'img/favicon.ico',
 
@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyleft &#127279; ${new Date().getFullYear()} Sharing is caring ❤️ Please copy and share.`,
+        copyright: `Copyleft &#127279; ${new Date().getFullYear()} Sharing is caring ❤️ Please copy and share. AGPL Licensed.`,
       },
       prism: {
         theme: lightCodeTheme,

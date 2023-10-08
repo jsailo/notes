@@ -14,7 +14,7 @@ Since you're here, let's start with the usual.
 
 Technical Writer based in Delhi with over 17 years of writing technical documentation. Has written documentation for software and hardware products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Has written documentation for blue chip companies that include, HP, Microsoft, and NCR Teradata.
 
-No ideologies. Doesn't preach. Nor tries to force beliefs on to others.
+No ideologies. Neither preaches nor attempts to impose beliefs.
 
 Dabbles with photography, his Fediverse instance, or watches historical documentaries. Also reads - when time permits.
 
