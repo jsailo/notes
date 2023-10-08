@@ -12,7 +12,7 @@ sidebar_class_name: hidden
 
 Credits for images used on this site.
 
-- Soapbox SVG: https://soapbox.pub
 - Blog SVG: https://www.svgrepo.com/show/130741/blog.svg
-- Favicon: https://www.freefavicon.com/freefavicons
 - Docusaurus image: https://docusaurus.io
+- Favicon: https://www.freefavicon.com/freefavicons
+- Soapbox SVG: https://soapbox.pub
