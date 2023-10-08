@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Are you taking your notes? Blog</title>
+        <title>Notes, jottings, and other stuff. Blog</title>
         <link>https://jsailo.github.io/notes/blog</link>
-        <description>Are you taking your notes? Blog</description>
+        <description>Notes, jottings, and other stuff. Blog</description>
         <lastBuildDate>Sat, 07 Oct 2023 17:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

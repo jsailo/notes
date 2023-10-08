@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jsailo.github.io/notes/blog</id>
-    <title>Are you taking your notes? Blog</title>
+    <title>Notes, jottings, and other stuff. Blog</title>
     <updated>2023-10-07T17:02:41.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jsailo.github.io/notes/blog"/>
-    <subtitle>Are you taking your notes? Blog</subtitle>
+    <subtitle>Notes, jottings, and other stuff. Blog</subtitle>
     <icon>https://jsailo.github.io/notes/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Credits]]></title>
