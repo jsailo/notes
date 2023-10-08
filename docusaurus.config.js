@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Are you taking your notes?',
-  tagline: '"Words are the final frontier" - some Irish writer',
+  title: 'Notes, jottings, and other stuff.',
+  tagline: 'Demo, so no tagline ATM.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
