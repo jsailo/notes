@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Notes, jottings, and other stuff. Blog</title>
+        <title>Notes, jottings, and other stuff Blog</title>
         <link>https://jsailo.github.io/notes/blog</link>
-        <description>Notes, jottings, and other stuff. Blog</description>
+        <description>Notes, jottings, and other stuff Blog</description>
         <lastBuildDate>Sat, 07 Oct 2023 17:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
@@ -14,7 +14,7 @@
             <guid>https://jsailo.github.io/notes/blog/credits</guid>
             <pubDate>Sat, 07 Oct 2023 17:02:41 GMT</pubDate>
             <description><![CDATA[Credits for images used on this site.]]></description>
-            <content:encoded><![CDATA[<p>Credits for images used on this site.</p><ul><li>Soapbox SVG: <a href="https://soapbox.pub" target="_blank" rel="noopener noreferrer">https://soapbox.pub</a></li><li>Blog SVG: <a href="https://www.svgrepo.com/show/130741/blog.svg" target="_blank" rel="noopener noreferrer">https://www.svgrepo.com/show/130741/blog.svg</a></li><li>Favicon: <a href="https://www.freefavicon.com/freefavicons/objects/iconinfo/writing-with-pencil-2-152-309243.html" target="_blank" rel="noopener noreferrer">Writing with pencil</a></li><li>Docusaurus image: <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">https://docusaurus.io</a></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Credits for images used on this site.</p><ul><li>Soapbox SVG: <a href="https://soapbox.pub" target="_blank" rel="noopener noreferrer">https://soapbox.pub</a></li><li>Blog SVG: <a href="https://www.svgrepo.com/show/130741/blog.svg" target="_blank" rel="noopener noreferrer">https://www.svgrepo.com/show/130741/blog.svg</a></li><li>Favicon: <a href="https://www.freefavicon.com/freefavicons" target="_blank" rel="noopener noreferrer">https://www.freefavicon.com/freefavicons</a></li><li>Docusaurus image: <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">https://docusaurus.io</a></li></ul>]]></content:encoded>
             <category>hola</category>
             <category>hello</category>
         </item>
@@ -24,7 +24,7 @@
             <guid>https://jsailo.github.io/notes/blog/about-me</guid>
             <pubDate>Thu, 05 Oct 2023 03:57:15 GMT</pubDate>
             <description><![CDATA[Since you're here, let's start with the usual.]]></description>
-            <content:encoded><![CDATA[<p>Since you're here, let's start with the usual. </p><p>Technical Writer based in Delhi with over 17 years of writing technical documentation. Has written documentation for software and hardware products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Has written documentation for blue chip companies that include, HP, Microsoft, and NCR Teradata.</p><p>No ideologies. Doesn't preach. Nor tries to force beliefs on to others.</p><p>Dabbles with photography, his Fediverse instance, or watches historical documentaries. Also reads - when time permits.</p><p>Originally from a <a href="https://en.wikipedia.org/wiki/Mizoram" target="_blank" rel="noopener noreferrer">Mizoram</a> but has lived all his life in Delhi.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Since you're here, let's start with the usual. </p><p>Technical Writer based in Delhi with over 17 years of writing technical documentation. Has written documentation for software and hardware products whose domains range from Telecom, RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems. Has written documentation for blue chip companies that include, HP, Microsoft, and NCR Teradata.</p><p>No ideologies. Neither preaches nor attempts to impose beliefs.</p><p>Dabbles with photography, his Fediverse instance, or watches historical documentaries. Also reads - when time permits.</p><p>Originally from a <a href="https://en.wikipedia.org/wiki/Mizoram" target="_blank" rel="noopener noreferrer">Mizoram</a> but has lived all his life in Delhi.</p>]]></content:encoded>
             <category>hola</category>
             <category>hello</category>
         </item>
