@@ -163,7 +163,7 @@ module.exports = {
 
   // whether to index static pages
   // /404.html is never indexed
-  indexPages: false,
+  indexPages: true,
 
   // language of your documentation, see next section
   language: "en",
