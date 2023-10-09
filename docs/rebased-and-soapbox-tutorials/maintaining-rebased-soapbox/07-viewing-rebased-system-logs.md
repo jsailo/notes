@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
-slug: viewing-rebased-logs
-title: Viewing Rebased logs
+slug: viewing-rebased-system-logs
+title: Viewing Rebased system logs
 ---
 
 # Viewing system logs

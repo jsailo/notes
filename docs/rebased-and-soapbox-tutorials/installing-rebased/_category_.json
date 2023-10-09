@@ -1,9 +1,9 @@
 {
-    "label": "Installing Rebased",
+    "label": "Installing and updating Rebased",
     "position": 1,
     "link": {
       "type": "generated-index",
-      "description": "Installing Rebased"
+      "description": "Install and update Rebased"
     }
   }
   

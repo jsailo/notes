@@ -18,5 +18,5 @@ Modify the `docusaurus.config.js` configuration file to configure your Docusauru
 | projectName           | Name of your project. When hosting in github, enter the repository name.                           | notes                                                 |
 | onBrokenLinks         | Action to be taken by NPM when broken links are found during the build process.                    | ignore, log, throw, or warn                           |
 | onBrokenMarkdownLinks | Action to be taken by NPM when broken Markdown links are found during the build process.           | ignore, log, throw, or warn                           |
-| editUrl               | Enter the URL where users will be taken when they click the Edit link in an article blog, or page. | https://github.com/jsailo/notes/tree/main/            |
+| editUrl               | Enter the URL where users will be redirected when they click the **Edit this page** link in a blog or page. | https://github.com/jsailo/notes/tree/main/            |
 

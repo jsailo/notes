@@ -25,13 +25,12 @@ Cloning from github, modify the files, and push your changes.
     Happy building awesome websites!
     ```
 5. Change to the docusaurus directory.
-
-5. Initialize git on the folder and add, commit, and push the files to your Github repository.
+6. Initialize git on the folder and add, commit, and push the files to your Github repository.
 
     ```bash
     git init
     git add
-    git commit -m "First commit"
+    git commit -m "Your commit message."
     git branch -M main
     git remote add origin git@github.com:<your_github_username>/notes.git
     git push

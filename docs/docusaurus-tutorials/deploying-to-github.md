@@ -7,7 +7,7 @@ slug: deploying-to-github-pages
 
 ## Using SSH to deploy your Docusaurus page.
 
-Just run the following in succession.
+Run the following commands in succession.
 ```bash
 npm run build
 ```
