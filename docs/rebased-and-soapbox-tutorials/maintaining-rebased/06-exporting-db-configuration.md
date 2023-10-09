@@ -14,12 +14,10 @@ To export the database configuratin, run the following commands in succession.
     ```bash
     sudo -Hu pleroma bash
     ```
-
 2. Change the directory to `/opt/pleroma`
 ```bash
 cd /opt/pleroma
 ```
-
 3. Run the mix command.
 
     ```bash
@@ -30,8 +28,6 @@ cd /opt/pleroma
 A file is exported to the `config/prod.exported_from_db.secret.exs` path on your server. This is your database configuration file. Use a program like Notepad ++ to open the file.
 
 :::caution
-
-If you plan to share the database configuration file in public, such as online forums or chat rooms, REMOVE ALL the keys, such as AWS Secret access keys, Key IDs etc
-
+If you plan to share the database configuration file in a public forum or chat rooms, REMOVE ALL the keys, such as AWS Secret access keys, Key IDs etc
 :::
 
