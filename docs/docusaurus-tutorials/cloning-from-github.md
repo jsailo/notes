@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: cloning-docusaurus-from-github
 ---
 
-# Cloning from github
+# Cloning from Github and running locally
 
-Cloning from github, modify the files, and push your changes.
+Clone Docusaurus from Github and run it on your local computer.
 
 1. Create a new repository in Github.
 2. Copy the repository link.
@@ -25,13 +25,8 @@ Cloning from github, modify the files, and push your changes.
     Happy building awesome websites!
     ```
 5. Change to the docusaurus directory.
-6. Initialize git on the folder and add, commit, and push the files to your Github repository.
-
+6. Run the following. 
     ```bash
-    git init
-    git add
-    git commit -m "Your commit message."
-    git branch -M main
-    git remote add origin git@github.com:<your_github_username>/notes.git
-    git push
+    yarn start
     ```
+    You Docusaurus site is loaded at `http://localhost:3000/<name_of_local_docusaurus_directory>`
