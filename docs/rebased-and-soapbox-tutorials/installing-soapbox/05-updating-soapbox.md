@@ -12,6 +12,6 @@ Updating Soapbox involves fetching the latest build as a zip file and then unzip
     ```
 2. Unzip the files.
     ```bash
-    curl -O https://dl.soapbox.pub/main/soapbox.zip
+    busybox unzip soapbox.zip -o -d /opt/pleroma/instance/static
     ```
 3. Refresh your website.
