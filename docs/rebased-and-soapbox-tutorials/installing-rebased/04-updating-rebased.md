@@ -6,7 +6,7 @@ title: Updating Rebased
 
 # Updating Rebased
 
-To update Rebased, run the following commands in succession.
+To update Rebased, run the following commands.
 
 1. Make yourself the `pleroma` user.
     ```bash
