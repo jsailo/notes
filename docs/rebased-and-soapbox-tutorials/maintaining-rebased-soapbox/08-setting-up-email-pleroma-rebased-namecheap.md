@@ -6,9 +6,10 @@ title: Setting up the mailer in AdminFe
 # Setting up mailer
 
 Use the mailer to send notification to users, such as when they forget or want to reset their password. You can also use it send digest emails to new users.
-    ```Notes
+
+    :::note
     You can use the same steps in Pleroma AdminFE.
-    ```
+    :::
 
 Click Mailer on the left sidebar of AdminFE. The direct link is [yourinstance.tld]/pleroma/admin/#/settings/mailer
 Do the following. 
