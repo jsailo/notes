@@ -11,8 +11,8 @@ Use the mailer to send notification to users, such as when they forget or want t
     You can use the same steps in Pleroma AdminFE.
     :::
 
-Click Mailer on the left sidebar of AdminFE. The direct link is [yourinstance.tld]/pleroma/admin/#/settings/mailer
-Do the following. 
+1. Click Mailer on the left sidebar of AdminFE. The direct link is `yourinstance.tld/pleroma/admin/#/settings/mailer``
+2. Do the following. 
 
 | Field         | Value to select or enter                                                     |
 |---------------|------------------------------------------------------------------------------|
@@ -25,5 +25,3 @@ Do the following.
 | STARTTLS Mode | Select :if_available.                                                        |
 | AUTH Mode     | Select :always                                                               |
 | Retries       | Enter 2.                                                                     |
-
-
